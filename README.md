@@ -7,3 +7,5 @@ To use,
 Install both SimpleOpenNI and Kinect Toolkit using the "Add to Library" feature in Processing 2.2.
 
 Then, connect your Kinect and run the sketch.
+
+[![Trails](https://img.youtube.com/vi/NejQC07P2QU/0.jpg)](http://www.youtube.com/watch?v=NejQC07P2QU)
